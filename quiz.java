@@ -46,7 +46,7 @@ public class quiz {
 			System.out.println("Thank you for playing"+name);
 			highscore();
 		}
-		
+		//aaa
 		
 	}
 	public void highscore() {
